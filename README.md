@@ -1,7 +1,4 @@
-Starting with https://www.youtube.com/watch?v=l8pRSuU81PU - Andrej Karpathy tutoral on making gpt 2 from scratch. 
-
-I wanted to go through this extensive 4 hour tutorial to gain deep fundational knowlege on GPT. Open Ai release the source code for GPT 2 and it is light weight 
-making it perfect tool to play with. 
+ Open Ai released the source code for GPT 2 and it is light weight making it perfect tool to play with. 
 
 WIP:
 
